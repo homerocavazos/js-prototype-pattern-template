@@ -1,6 +1,7 @@
 /*
   Version: 1.0.0
   Author: Homero Cavazos
+  Github: https://github.com/homerocavazos
   Instructions:
     - Start from the bottom of the file in the "init" function
 
